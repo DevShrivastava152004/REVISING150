@@ -21,3 +21,4 @@ public class ContainsDuplicate
         System.out.println(result);
     }
 }
+// Time Complexity - O(n) and Space Complexity - O(n)
